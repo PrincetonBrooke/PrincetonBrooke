@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrincetonBrooke
 - 👀 I’m interested in Cyber Security, Software and Systems Engineering, and Coffee
 - 🌱 I’m currently learning about MULTICS, GEMSOS, and the Reference Monitor.
-- 💞️ I’m looking to collaborate on state of the art research in Cybersecurity and developing innovative software for emerging technologies.
+- 💞️ I’m looking to collaborate on research in Cybersecurity and to develop innovative software for emerging technologies.
 - 📫 How to reach me https://linkedin.com/in/princetonbrooke
 
 <!---
