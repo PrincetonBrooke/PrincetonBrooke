@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PrincetonBrooke
-- 👀 I’m interested in Cyber Security, Software and Systems Engineering, and Coffee
-- 🌱 I’m currently learning about MULTICS, GEMSOS, and the Reference Monitor.
-- 💞️ I’m looking to collaborate on research in Cybersecurity and to develop innovative software for emerging technologies.
-- 📫 How to reach me https://linkedin.com/in/princetonbrooke
+- 👀 I’m interested in cybersecurity, software and systems engineering.
+- 🌱 I’m currently designing innovative CI/CD with AI/ML for applications in infosec.
+- 💞️ I’m reviewing PhD programs in systems engineering, cybersecurity, and computer science.
 
 <!---
 PrincetonBrooke/PrincetonBrooke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
